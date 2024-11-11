@@ -1,0 +1,49 @@
+body {
+  background-color: yellow;
+  color: black;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 2;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 48px;
+  background-color: blue;
+}
+
+button, input[type="submit"] {
+  background-color: #d9edff;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  font-size: 0.95rem;
+  font-weight: 350;
+  line-height: 1.5;
+  padding: 0.300rem 0.75rem;
+  text-align: center;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  vertical-align: middle;
+}
+
+.moldura {
+  border: 2px solid #000;
+  padding: 20px;
+  width: 300px;
+  margin: 20px auto;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
+
+
+
+
+
+
